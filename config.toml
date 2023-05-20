@@ -120,12 +120,14 @@ languageName = "English"
     title = ""
   [[menu.main]]
     weight = 3
-    identifier = "categories"
+    identifier = "others"
     pre = ""
     post = ""
-    name = "Categories"
-    url = "/categories/"
+    name = "Others"
+    url = "/others"
     title = ""
+
+    
 
 # Markup related configuration in Hugo
 [markup]
