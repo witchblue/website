@@ -73,9 +73,9 @@ languageName = "English"
       # URL of avatar shown in home page
       avatarURL = "/images/logo.png"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = "Hi"
+      title = "The best password is one even you can't remember."
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "welcome"
+      subtitle = ""
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
