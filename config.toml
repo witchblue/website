@@ -26,7 +26,7 @@ languageName = "English"
   [params.footer]
     enable = true
     # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
-    custom = '"Stay Hungry, Stay Foolish" -Steve Job'
+    custom = '"Stay Hungry, Stay Foolish" -Steve Jobs'
     # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
     hugo = false
     # LoveIt NEW | 0.2.0 whether to show copyright info
