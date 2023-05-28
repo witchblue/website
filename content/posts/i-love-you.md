@@ -19,6 +19,8 @@ A worm can copy itself and transmit those copies to other computers once it find
 >Worms differ from other computer viruses due to their ability to spread.
 
 ## 2.ILOVEYOU
+Over ten million Windows personal computers were infected by the computer worm ILOVEYOU, also known as Love Bug or Love Letter for You, on or after May 5, 2000.
+![iloveyou-virus](/iloveyou-virus-2000.png "A screenshot showing a copy of the ILOVEYOU virus email which spread around the world in May 2000")
 >The spam emails had the following formatting:
 >- Subject line: ILOVEYOU
 >- Body text: kindly check the attached LOVELETTER coming from me
@@ -26,9 +28,15 @@ A worm can copy itself and transmit those copies to other computers once it find
 
 
 ## 3.Who wrote it?
-Onel de Guzman, a 24-year-old Filipino living in Manila, came from a low-income household and couldn't afford Internet connection at the time. As a result, he made a worm for his thesis at AMA Computer College, which was rejected, and he dropped. 
+`Onel de Guzman`, a 24-year-old Filipino living in Manila, came from a low-income household and couldn't afford Internet connection at the time. 
+![Onel De Guzman on May 2000](/onel-de-guzman-2000.png "Onel De Guzman on May 2000 at news conference ")
 
-Then he applied the same theories from his thesis, influenced by the worm virus Mellisa, is a “macro virus” which send emails to the first 50 addresses on their mailing lists. He also made use of Windows 95 vulnerabilities that allowed code to be executed in email attachments when a user clicked on them. De Guzman eliminated the geographic restriction out of curiosity; he had not anticipated this widespread distribution. He claimed that his activities were not theft since he believed that having access to the Internet is a fundamental human right.
+As a result, he made a worm for his thesis at AMA Computer College, which was rejected, and he dropped. 
+Then he applied the same theories from his thesis, influenced by the worm virus `Mellisa`, is a “macro virus” which send emails to the first 50 addresses on their mailing lists.
+
+![Thesis at AMA Computer College](/thesis-rejected.png "De Guzman's thesis rejected at AMA Computer College")
+
+He also made use of Windows 95 vulnerabilities that allowed code to be executed in email attachments when a user clicked on them. De Guzman eliminated the geographic restriction out of curiosity; he had not anticipated this widespread distribution. He claimed that his activities were not theft since he believed that having access to the Internet is a fundamental human right.
 
 ## 4.Who was charged?
 The National Bureau of Investigation (NBI) of the Philippines has accused Joy Padios, Onel De Guzman, and Reonel Ramones of developing and spreading the deadlist malware known as ILOVEYOU. But the state prosecutors subsequently dropped their proceedings against them because there weren't cybercrime laws in the Philippines in 2000. 
