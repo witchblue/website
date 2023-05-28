@@ -1,5 +1,5 @@
 ---
-title: "WannaCry explained: The most dangerous randsomware attack in the history"
+title: "WANNACRY: The Worst Ransomware Attack in History"
 date: 2023-05-19T22:33:26+05:30
 draft: false
 description: "wanna-cry-thumbnail"
