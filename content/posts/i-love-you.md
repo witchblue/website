@@ -19,30 +19,33 @@ A worm can copy itself and transmit those copies to other computers once it find
 >Worms differ from other computer viruses due to their ability to spread.
 
 ## 2.ILOVEYOU
-Over ten million Windows personal computers were infected by the computer worm ILOVEYOU, also known as Love Bug or Love Letter for You, on or after May 5, 2000.
+Over ten million Windows personal computers were infected by the computer worm ILOVEYOU, also known as Love Bug or Love Letter for You, either on or after May 5, 2000.
 ![iloveyou-virus](/iloveyou-virus-2000.png "A screenshot showing a copy of the ILOVEYOU virus email which spread around the world in May 2000")
 >The spam emails had the following formatting:
 >- Subject line: ILOVEYOU
 >- Body text: kindly check the attached LOVELETTER coming from me
 >- Attachment: LOVE-LETTER-FOR-YOU.TXT
 
-
 ## 3.Who wrote it?
 `Onel de Guzman`, a 24-year-old Filipino living in Manila, came from a low-income household and couldn't afford Internet connection at the time. 
 ![Onel De Guzman on May 2000](/onel-de-guzman-2000.png "Onel De Guzman on May 2000 at news conference ")
 
 As a result, he made a worm for his thesis at AMA Computer College, which was rejected, and he dropped. 
-Then he applied the same theories from his thesis, influenced by the worm virus `Mellisa`, is a “macro virus” which send emails to the first 50 addresses on their mailing lists.
+Then he applied the same theories from his thesis, influenced by the worm virus `Mellisa` which is a “macro virus” that send emails to the first 50 addresses on their mailing lists.
 
 ![Thesis at AMA Computer College](/thesis-rejected.png "De Guzman's thesis rejected at AMA Computer College")
 
-He also made use of Windows 95 vulnerabilities that allowed code to be executed in email attachments when a user clicked on them. De Guzman eliminated the geographic restriction out of curiosity; he had not anticipated this widespread distribution. He claimed that his activities were not theft since he believed that having access to the Internet is a fundamental human right.
+He also made use of Windows 95 vulnerabilities that allowed code to be executed in email attachments when a user clicked on them. De Guzman eliminated the geographic restriction out of curiosity; he had not anticipated this widespread distribution. It thus resulted in the computer infection `ILOVEYOU`.
+
+He claimed that his activities were not theft since he believed that having access to the Internet is a fundamental human right.
 
 ## 4.Who was charged?
 The National Bureau of Investigation (NBI) of the Philippines has accused Joy Padios, Onel De Guzman, and Reonel Ramones of developing and spreading the deadlist malware known as ILOVEYOU. But the state prosecutors subsequently dropped their proceedings against them because there weren't cybercrime laws in the Philippines in 2000. 
 
 ## 5.How did it Work?
 The ILOYEYOU script was developed in Microsoft Visual Basic Scripting (VBS), which is the default scripting language in Microsoft Outlook (controls calendar, stores contact information, sends and receives email, and keeps track of tasks).
+
+ILoveYou employed `phishing techniques` to convince the victim to open the email attachment that it claimed to be a love letter from the sender. Humans are inherently emotional and curious, so when the victim clicked the attachment, the script starts execution and completes its tasks. 
 
 Once the computer is infected, the script will carry out the following tasks:
 - Makes numerous copies of itself, some of which are hidden in specific directories, while others replace and overwrite files including JPG, JPEG, VBS, VBE, JS, JSE, CSS, WSH, SCT, DOC, HTA, MP2, and MP3. But rather than being overwritten, MP3s and other sound-related files would be hidden.
