@@ -36,16 +36,18 @@ All of this produced a mess that has many variations of the same thing. To put a
 
 ### 2.3 Evolution of Linux
 ![Linus-trovalds](/linus-trovalds.png "Linus Trovalds")
-Linus Torvalds, a student at the University of Helsinki in Finland, began programming his own code in 1991 with the intention of creating a free academic version of Unix. This project later evolved into the Linux kernel. He specifically created this program for his own PC since he desperately wanted to use a Unix 386 Intel computer but couldn't afford one. On MINIX and the GNU C compiler, he completed it. 
+`Linus Torvalds`, a student at the University of Helsinki in Finland, began programming his own code in 1991 with the intention of creating a free academic version of Unix. This project later evolved into the Linux kernel. 
+
+He specifically created this program for his own PC since he desperately wanted to use a Unix 386 Intel computer but couldn't afford one. On MINIX and the GNU C compiler, he completed it. 
 Although he only intended to do it for fun, he ended up with a huge project.
 
 ### 2.4 Naming
-Torvalds had originally planned to call it "Freax" (free, freak, unix), but Ari Lemmke, one of the volunteer administrators for the FTP server at the time and Torvalds coworker at the Helsinki University of Technology (HUT), did not think "Freax" was a good name, so he named it "Linux" on the server after combining Torvalds' first name and the word Unix without consulting Torvalds. Later on though, Torvalds approved of "Linux".
+Torvalds had originally planned to call it `"Freax"` (free, freak, unix), but Ari Lemmke, one of the volunteer administrators for the FTP server at the time and Torvalds coworker at the Helsinki University of Technology (HUT), did not think "Freax" was a good name, so he named it `"Linux"` on the server after combining Torvalds' first name and the word Unix without consulting Torvalds. Later on though, Torvalds approved of "Linux".
 
 ## 3.Why do Hackers prefer it?
 A hacker is basically someone who intentionally exploits computer networks or personal computer systems. Therefore, in light of these factors, Linux will be the best choice for hackers looking to test their abilities on an operating system that provides the highest level of security as well as one that increases the safety of their actions.
 
-Additionally, there are several tools for hacking, sniffing, scanning, and various other tools are readily available for Linux machines, which is why hackers choose it. But the main reasons why hackers prefer Linux are the same reasons why more people are installing it on their own devices now as the popularity of this operating system grows.
+Additionally, there are several tools for hacking, sniffing, scanning, and etc readily available for Linux machines, which is why hackers choose it. But the main reasons why hackers prefer Linux are the same reasons why more people are installing it on their own devices now as the popularity of this operating system grows.
 
 Here are eight explanations for why hackers prefer Linux over other operating systems:
 ### 3.1 Open Source
@@ -53,7 +55,9 @@ Here are eight explanations for why hackers prefer Linux over other operating sy
 Linux is an open source operating system, it implies that the source code is openly accessible to anyone. Unlike other operating systems, hackers can customise Linux by understanding its design and infrastructure according to their needs.
 ### 3.2 Ease of Use
 ![ease-of-use-image](/ease-of-use.png "Ease of use")
-It's often thought that linux is difficult to use and is primarily for programmers and hackers. However, once you get used to it, it becomes much more user-friendly. Linux can be tricky at first if you suddenly switch from Windows or Mac. If not, there are plenty stuff available for beginners on Google and YouTube.
+It's often thought that linux is difficult to use and is primarily for programmers and hackers. However, once you get used to it, it becomes much more user-friendly. Linux can be tricky at first if you suddenly switch from Windows or Mac. 
+
+If not, there are plenty stuff available for beginners on Google and YouTube.
 ### 3.3 Security
 ![security-image](/security.png "Security")
 Linux systems are less vulnerable and do not require anti-virus software. 
@@ -75,3 +79,6 @@ Linux is compatible with many hacking tools since it manages memory much better.
 ### 3.8 Lighter and Portable
 ![lighter-and-portable-image](/portable-lighter.png "Lighter and Portable")
 Because it requires fewer resources to run and functions the same on various types of hardware like USB flash drives, hard drives, and CDs, Linux is lightweight and portable.
+
+
+Happy reading, and I hope this information is helpful...🐾

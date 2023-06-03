@@ -1,6 +1,6 @@
 ---
 title: "WANNACRY: The Worst Ransomware Attack in History"
-date: 2023-05-19T22:33:26+05:30
+date: 2023-05-25T22:33:26+05:30
 draft: false
 description: "wanna-cry-thumbnail"
 featuredImage: "/wannacry.png"
@@ -94,5 +94,3 @@ Thus, this is all about WannaCry the most devastating historical ransomware atta
 
 
 Happy reading, and I hope this article is helpful...🐾
-
-
