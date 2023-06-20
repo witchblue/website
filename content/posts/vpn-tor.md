@@ -35,7 +35,7 @@ Research has shown that hotel and flight prices differ depending on your locatio
 
 ## Tor
 To keep their online activities hidden from their ISPs, governments, and attackers, onion router, also known as tor, is utilised by cybercriminals and even regular people around the world. 
-![vpn](/tor.jpg "VPN | Source: Hostinger")
+![tor](/tor.jpg "Tor")
 Tor seeks to make your online activity anonymous by enclosing it in multiple levels of encryption and sending it through numerous nodes that remove each layer of encryption one at a time, hence the it gave the nickname "onion." And each node decrypts the necessary data to transmit the data to the following node but even if it doesn't reveal your true identity, the data is not encrypted at the exit node, which is the final node in the onion routing.
 
 ## How do they work?
