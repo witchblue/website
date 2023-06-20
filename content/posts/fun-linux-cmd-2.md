@@ -1,5 +1,5 @@
 ---
-title: "(Kali) Linux commands for fun: PART-1"
+title: "(Kali) Linux commands for fun: PART-2"
 date: 2023-06-17T17:58:51+05:30
 draft: false
 description: "linux-fun-thumbnail"
