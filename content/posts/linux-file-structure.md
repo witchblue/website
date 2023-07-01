@@ -92,6 +92,6 @@ Temporary files created by the system and users are kept in this directory.
 When the system reboots, the files in this directory are removed.
 ![tmp-linux-directory](/tmp.png "tmp-linux-directory")
 
-Other essential directories are the /run directory, which holds runtime data for processes that are actively operating on the system, /srv directory directs users to the location of data files for a certain service, such as FTP, WWW, or CVS.
+Other essential directories are the /run directory, which holds runtime data for processes that are actively operating on the system, /srv directory directs users to the location of data files for a certain service, such as FTP, WWW, or CVS and The files in the /dev directory represent the devices that are connected to the local system.
 
 One can quickly browse Linux by learning the purpose of each directory.
