@@ -4,6 +4,7 @@ date: 2023-06-23T22:43:36+05:30
 draft: false
 description: "custom-terminal-thumbnail"
 featuredImage: "/custom-terminal.png"
+categories: ["kali" , "Tutorial"]
 ---
 Have you ever used any Kali tool and observed a banner of any sort popping up on the terminal? If so, those are figlets, which are simply ASCII letters. Have you ever thought about how to add a banner to your terminal to have a more personalized Linux terminal like the one shown below: 
 ![sample-banner](/sample-banner.png "Sample Banner")

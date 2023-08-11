@@ -4,6 +4,7 @@ date: 2023-07-26T22:00:24+05:30
 draft: false
 description: "osint-thumbnail"
 featuredImage: "/osint.png"
+categories: ["What is it? Series"]
 ---
 I am sure you haven't heard of how professionals and hackers use publicly available information about the target to launch attacks. So, here is the article on OSINT. 
 <!--more-->

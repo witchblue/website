@@ -4,6 +4,7 @@ date: 2023-06-20T19:55:20+05:30
 draft: false
 description: "vpn-tor-thumbnail"
 featuredImage: "/vpn-tor.png"
+categories: ["What is it? Series"]
 ---
 If you worry that your internet service provider will monitor your online activity, you may be using privacy tools like Tor or VPN services. But don't you often wonder how they work to build tunnels that prevent internet history tracking? So this article explains how tor and vpn work.
 <!--more-->

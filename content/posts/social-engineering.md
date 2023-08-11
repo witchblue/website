@@ -4,6 +4,7 @@ date: 2023-06-06T23:20:47+05:30
 draft: false
 description: "social-engineering-thumbnail"
 featuredImage: "/social-eng.png"
+categories: ["What is it? Series"]
 ---
 "I need 10k urgently. Please transfer this amount to the account number XXXXXXXXXX," or "You won the lottery. Click here to claim your prize." I'm going to assume that you've received texts like these from random people or an online buddy you recently had conversation. Yes, they are mostly scammers who fraud via social engineering. Here is a piece of writing about social engineering.
 <!--more-->

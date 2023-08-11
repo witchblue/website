@@ -4,6 +4,7 @@ date: 2023-06-11T22:30:01+05:30
 draft: false
 description: "linux-fun-thumbnail"
 featuredImage: "/linux-fun.png"
+categories: ["Kali"]
 ---
 Typically, the powerhouse for its user and sysadmins is the terminal. Linux, however, is more than just a lot of laborious effort.  There is a lot of excellent open source software available, but some of it was created purely for enjoyment. When you wish a smile, play with these on your own.
 <!--more-->

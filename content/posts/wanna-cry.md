@@ -4,6 +4,7 @@ date: 2023-05-25T22:33:26+05:30
 draft: false
 description: "wanna-cry-thumbnail"
 featuredImage: "/wannacry.png"
+categories: ["Case Study"]
 ---
 This is all you need to know about WannaCry.
 

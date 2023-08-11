@@ -4,6 +4,7 @@ date: 2023-06-15T21:38:40+05:30
 draft: false
 description: "linux-file-structure-thumbnail"
 featuredImage: "/linux-file-struct.png"
+categories: ["Linux"]
 ---
 Do you frequently lose track of where you placed your clothes, keys, and other stuff? Isn't it more difficult to track them down when you need them? The majority of us arrange them accordingly, putting keys on a desk or hooks and clothes in closets. Similar to how our computer's operating system organizes the files in the structure, making them simple to access when necessary. In this article, I will explain the Linux file structure in a simple way.
 <!--more-->

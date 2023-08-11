@@ -4,6 +4,7 @@ date: 2023-05-29T23:20:47+05:30
 draft: false
 description: "linux-thumbnail"
 featuredImage: "/linux.png"
+categories: ["Linux"]
 ---
 Ever wonder what the green fonts on black screens in hacker films and TV shows mean? When the hacker inputs something into those screens, the organisation or victim is suddenly hacked. Well, that is nothing more than a Linux terminal. This article describes Linux in detail and explains why hackers like it over other operating systems like Windows and Mac. 
 <!--more-->

@@ -4,6 +4,7 @@ date: 2023-06-05T23:20:47+05:30
 draft: false
 description: "linux-installation-thumbnail"
 featuredImage: "/kali-linux-install.png"
+categories: ["kali" , "Tutorial"]
 ---
 Ever wanted to learn Linux or wonder how it operates? I suppose you imagined it some sort of magic that only experts could do. Well yes, here is an article with the tutorial on how to install Kali Linux.
 <!--more-->

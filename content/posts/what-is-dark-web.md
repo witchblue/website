@@ -4,6 +4,7 @@ date: 2023-07-13T21:34:49+05:30
 draft: false
 description: "dark-web-thumbnail"
 featuredImage: "/dark-web.png"
+categories: ["What is it? Series"]
 ---
 You've undoubtedly heard of the dark web, and I'm sure you've also heard that it's where people go to buy and sell illegal products like drugs, weapons, and other items, as well as to hire hit men and other unlawful activities. But wait, there's more to it than that—the dark web can be beneficial as well. I thus came up with this post about the dark web, which discusses its applications, and additional details about it.
 <!--more-->

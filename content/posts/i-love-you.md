@@ -4,6 +4,7 @@ date: 2023-05-28T12:52:38+05:30
 draft: false
 description: "i-love-you-thumbnail"
 featuredImage: "/iloveyou.png"
+categories: ["Case Study"]
 ---
 Discover how, who, and why I love You was developed.
 

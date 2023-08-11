@@ -4,6 +4,7 @@ date: 2023-06-17T17:58:51+05:30
 draft: false
 description: "linux-fun-thumbnail"
 featuredImage: "/linux-fun2.png"
+categories: ["Kali"]
 ---
 This is the second part of the "linux commands for fun" series. 
 <!--more-->

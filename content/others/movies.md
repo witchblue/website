@@ -2,7 +2,7 @@
 title: "Movies on Hacking"
 date: 2023-05-30T17:53:57+05:30
 draft: false
-
+categories: ["Movies"]
 ---
 # The Most Accurate Movies and Tv Shows on Hacking
 ![movies-thumbnail](/movies.png "🧑🏻‍💻")

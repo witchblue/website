@@ -126,6 +126,14 @@ languageName = "English"
     name = "Others"
     url = "/others"
     title = ""
+  [[menu.main]]
+        weight = 4
+        identifier = "categories"
+        pre = ""
+        post = ""
+        name = "Categories"
+        url = "/categories"
+        title = ""
 
     
 
