@@ -73,7 +73,7 @@ ls command lists the directory contents
 ![ls-iR-command](/ls-iR.png "ls-iR Command")
 
 ### clear
-The clear commands is used to clear the screen
+The clear command is used to clear the screen
 
 This concludes Part 1 of a series on Linux keyboard shortcuts and basic commands. Keep checking back for future parts of this series as well as other interesting cybersecurity articles. And if you have any questions, feel free to connect with me via email or on LinkedIn.
 
