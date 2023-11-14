@@ -33,7 +33,7 @@ Example: The rise in identity theft cases among Indian youth has witnessed a con
 Example: Instances of online harassment reflecting cultural or regional disparities pose unique challenges for Indian teens.
 
 ## Overcoming Online Risks
-The below are the ways to overcome the onlie risks as a teen and also utilize the internet properly:
+The below are the ways to overcome the online risks as a teen and also utilize the internet properly:
 
 - Protecting Your Personal Information: In India, it is critical to protect personal data, such as phone numbers, addresses, and Aadhar numbers. Cybercriminals may use this information for financial fraud, identity theft, or even harassment. Teens need to learn to be cautious when using the internet and refrain from disclosing private information on unsafe sites.
 
