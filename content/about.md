@@ -8,7 +8,7 @@ menu: "menumain"
 
 ![witchblue-figlet](/f.png)
 
-This is Shakeera and I'm a BCA cybersecurity student currently studying in JU, Bangalore. I'm passionate about the world of cybersecurity and the challenges it presents in today's digital age.
+This is Shakeera and I'm a BCA cybersecurity graduate from  student Jain University, Bangalore. I'm passionate about the world of cybersecurity and the challenges it presents in today's digital age.
 
 As a beginner cybersecurity student, I have a range of interests that go beyond the world of cybersecurity. I'm curious about various fields and disciplines, and I enjoy exploring new topics and ideas.
 
